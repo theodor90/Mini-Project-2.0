@@ -1,0 +1,14 @@
+C:\Users\Theodor\Desktop\mars\Productlist\Productlist\bin\Debug\net8.0\Productlist.exe
+C:\Users\Theodor\Desktop\mars\Productlist\Productlist\bin\Debug\net8.0\Productlist.deps.json
+C:\Users\Theodor\Desktop\mars\Productlist\Productlist\bin\Debug\net8.0\Productlist.runtimeconfig.json
+C:\Users\Theodor\Desktop\mars\Productlist\Productlist\bin\Debug\net8.0\Productlist.dll
+C:\Users\Theodor\Desktop\mars\Productlist\Productlist\bin\Debug\net8.0\Productlist.pdb
+C:\Users\Theodor\Desktop\mars\Productlist\Productlist\obj\Debug\net8.0\Productlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Theodor\Desktop\mars\Productlist\Productlist\obj\Debug\net8.0\Productlist.AssemblyInfoInputs.cache
+C:\Users\Theodor\Desktop\mars\Productlist\Productlist\obj\Debug\net8.0\Productlist.AssemblyInfo.cs
+C:\Users\Theodor\Desktop\mars\Productlist\Productlist\obj\Debug\net8.0\Productlist.csproj.CoreCompileInputs.cache
+C:\Users\Theodor\Desktop\mars\Productlist\Productlist\obj\Debug\net8.0\Productlist.dll
+C:\Users\Theodor\Desktop\mars\Productlist\Productlist\obj\Debug\net8.0\refint\Productlist.dll
+C:\Users\Theodor\Desktop\mars\Productlist\Productlist\obj\Debug\net8.0\Productlist.pdb
+C:\Users\Theodor\Desktop\mars\Productlist\Productlist\obj\Debug\net8.0\Productlist.genruntimeconfig.cache
+C:\Users\Theodor\Desktop\mars\Productlist\Productlist\obj\Debug\net8.0\ref\Productlist.dll
